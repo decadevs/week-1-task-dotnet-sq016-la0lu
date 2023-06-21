@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\SureBank\bin\Debug\net7.0\SureBank.exe
+C:\Users\hp\source\repos\SureBank\bin\Debug\net7.0\SureBank.deps.json
+C:\Users\hp\source\repos\SureBank\bin\Debug\net7.0\SureBank.runtimeconfig.json
+C:\Users\hp\source\repos\SureBank\bin\Debug\net7.0\SureBank.dll
+C:\Users\hp\source\repos\SureBank\bin\Debug\net7.0\SureBank.pdb
+C:\Users\hp\source\repos\SureBank\obj\Debug\net7.0\SureBank.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\SureBank\obj\Debug\net7.0\SureBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\SureBank\obj\Debug\net7.0\SureBank.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\SureBank\obj\Debug\net7.0\SureBank.AssemblyInfo.cs
+C:\Users\hp\source\repos\SureBank\obj\Debug\net7.0\SureBank.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\SureBank\obj\Debug\net7.0\SureBank.dll
+C:\Users\hp\source\repos\SureBank\obj\Debug\net7.0\refint\SureBank.dll
+C:\Users\hp\source\repos\SureBank\obj\Debug\net7.0\SureBank.pdb
+C:\Users\hp\source\repos\SureBank\obj\Debug\net7.0\SureBank.genruntimeconfig.cache
+C:\Users\hp\source\repos\SureBank\obj\Debug\net7.0\ref\SureBank.dll
